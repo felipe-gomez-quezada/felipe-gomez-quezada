@@ -15,8 +15,20 @@ I'm currently working as the Tech Lead of [Lifebox](https://lifebox.cl/), a Star
 - Watch anime and TV series 📺
 - Learning about personal finances 💰
 
-## IV. a) Favorite cryptocurrencies
+## IV. a) Programming languagues and frameworks that I like
 
-| #1 | #2 |
-|:--------:|:------:|
-| ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) |
+| #1 | #2 | #3 |
+|:--------:|:------:|:------:| 
+| ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) | ![Nuxt.js Badge](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff&style=for-the-badge) | 
+
+## IV. b) Tecnhologies that I like
+
+| #1 | #2 | #3 | #4 | #5 |
+|:--------:|:------:|:------:|:------:|:------:| 
+| ![GitHub Copilot Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge) | ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge) | ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge) | ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge) | ![Adobe Lightroom Badge](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=fff&style=for-the-badge) | 
+
+## IV. c) Cryptocurrencies that I like
+
+| #1 | #2 | #3 |
+|:--------:|:------:|:------:| 
+| ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge) | ![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge) | ![Solana Badge](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff&style=for-the-badge) |
