@@ -3,7 +3,7 @@
 Hello, visitor! I'm Felipe, a Software Engineer and Learning enthusiast from Santiago, Chile. I'm passionate about improving my skills, learning new things about technology, entrepreneurship, cryptocurriencies, personal finances and a lot of fun things. 
 
 # II. GitHub Streak stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=felipe-gomez-quezada&theme=dark&border_radius=2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=felipe-gomez-quezada&theme=dark&border_radius=2&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 # III. Current job
 
