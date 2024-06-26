@@ -7,7 +7,7 @@ Hello, visitor! I'm Felipe, a Software Engineer and Learning enthusiast from San
 
 # III. Current job
 
-I'm currently working as the Tech Lead of [Lifebox](https://lifebox.cl/), a Startup that develops [Power Skills](https://soypowerlatam.com/) for all kind of companies in Chile.
+I'm currently working as Chief Tecnhnology Officer at [Lifebox](https://lifebox.cl/), a Startup that develops [Power Skills](https://soypowerlatam.com/) for all kind of companies in Chile.
 
 # IV. Hobbies
 - Going to the gym 💪🏽
