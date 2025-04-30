@@ -17,6 +17,6 @@ I'm currently working as Chief Tecnhnology Officer at [Lifebox](https://lifebox.
 
 # LinkedIn
 
-[![Follow me on LinkedIn](https://img.shields.io/badge/LinkedIn-Sígueme-blue?logo=linkedin&style=for-the-badge)]( www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=felipegomezquezada)
+[![Follow me on LinkedIn](https://img.shields.io/badge/LinkedIn-Sígueme-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/felipegomezquezada/)
 
 I publish frequently about technology, startups and continuous learning 🚀
