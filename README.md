@@ -15,8 +15,13 @@ I'm currently working as Chief Tecnhnology Officer at [Lifebox](https://lifebox.
 - Watch anime and TV series 📺
 - Learning about personal finances 💰
 
+# Personal website
+
+I'm creating a personal website. You can visit it [here](https://felipegomez.dev/). If you are curious about how I did something, feel free to check out my [Portfolio repo](https://github.com/felipe-gomez-quezada/Portafolio).
+
 # LinkedIn
 
 [![Follow me on LinkedIn](https://img.shields.io/badge/LinkedIn-Sígueme-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/felipegomezquezada/)
 
 I publish frequently about technology, startups and continuous learning 🚀
+
