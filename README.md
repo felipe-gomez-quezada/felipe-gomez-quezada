@@ -6,6 +6,10 @@ Hello, visitor! I'm Felipe, a Software Engineer and Learning enthusiast from San
 
 I'm currently working as Chief Tecnhnology Officer at [Lifebox](https://lifebox.cl/), a Startup that develops [Power Skills](https://soypowerlatam.com/) for all kind of companies in Chile.
 
+# Personal Project
+
+I'm building [Camino PAES](https://caminopaes.cl/), an app that helps students to study for the Prueba de Acceso a la Educación Superior (PAES), the standardized admission test used in Chile for entry into higher education. You can start using the app and see it for yourself [here](https://app.caminopaes.cl/).
+
 # Hobbies
 - Going to the gym 💪🏽
 - Learning about technology 💻
