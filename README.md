@@ -2,9 +2,9 @@
 
 Hello, visitor! I'm Felipe, a Software Engineer and Learning enthusiast from Santiago, Chile 🇨🇱. I'm passionate about improving my skills, learning new things about technology, entrepreneurship, cryptocurriencies, personal finances and a lot of fun things. 
 
-# Current job - Lifebox
+# Open to work!! 🎉
 
-I'm currently working as Chief Tecnhnology Officer at [Lifebox](https://lifebox.cl/), a Startup that develops [Power Skills](https://soypowerlatam.com/) for all kind of companies in Chile.
+I'm currently open for new opportunities as a software engineer or a Tech Lead/CTO/similar. I you want to talk with me, feel free to reach out! felipe.gomez.quezada@gmail.com
 
 # Personal Project - Camino PAES
 
